@@ -10,11 +10,10 @@ xterm*geometry: 80x32
 xterm*bellIsUrgent: true
 xterm*terName: xterm-256color
 
- XTerm*VT100.Translations: #override \n\
-     Ctrl Shift <KeyPress> C:  select-end(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
-     <BtnUp>: select-end(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
-     Ctrl Shift <KeyPress> V: insert-selection(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
-     <Btn2Down> : insert-selection(CLIPBOARD,PRIMARY,CUT_BUFFER0) \n\
+ XTerm*VT100.Translations: #override \
+     Shift <Key> insert:  insert-selection(SELECT) \n\
+     Ctrl Shift <Key> C:  copy-selection(SELECT) \n\
+     Ctrl Shift <Key> V:  insert-selection(SELECT) \n\
 
  !! drop in Solarized colorscheme for Xresources/Xdefaults
  !! https://github.com/altercation/ethanschoonover.com/blob/master/projects/solarized/xresources-colors-solarized/Xresources
