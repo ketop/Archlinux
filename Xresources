@@ -1,5 +1,7 @@
-XTerm*locale: true
-xterm*saveLines: 10240
+XTerm*locale: zh_CN.UTF-8
+XTerm*inputMethod:fcitx
+XTerm*selectToClipboard: true
+xterm*saveLines: 2000
 !xterm*faceName: DejaVu Sans Mono:style=Book:antialias=false
 xterm*faceNameDoublesize: WenQuanYi Microhei:antialias=true
 xterm*faceName: DejaVu Sans Mono for Powerline
