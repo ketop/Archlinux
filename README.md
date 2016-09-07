@@ -1,4 +1,5 @@
 # Archlinux
+================================
 advance GUI Condiguration backup
 
 1.XTERM
@@ -16,3 +17,32 @@ advance GUI Condiguration backup
 
 
 i spent some day on comfiguring my archlinux.So keep a backup   -_-!
+
+----------------------------------------
+Yes,i am love work on linux 
+
+My Software Lists as followings:
+1> herbstluftwm
+
+2>  Mendeley
+
+3> xflux
+
+4> firefox
+
+5> netease-cloud-music / moc
+
+6> eclipse
+
+7> powerline fonts  and spf13-vim
+
+8> solarized xterm and  fcitx
+
+9> electron-wechat
+
+10> more discovery
+
+
+.....i lovein it!!!.....
+
+
