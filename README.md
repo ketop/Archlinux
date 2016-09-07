@@ -19,9 +19,9 @@ advance GUI Condiguration backup
 i spent some day on comfiguring my archlinux.So keep a backup   -_-!
 
 ----------------------------------------
-Yes,i am love work on linux 
+Yes,i love working on My ArchLinux 
 
-My Software Lists as followings:
+###My Software Lists as followings:
 1> herbstluftwm
 
 2>  Mendeley
