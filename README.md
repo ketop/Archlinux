@@ -44,4 +44,4 @@ Yes,i love working on My ArchLinux
 
 
 .....i lovein it!!!.....
-![](https://github.com/ketop/Archlinux/2016-09-06-171108_1920x1080_scrot.png)
+![image](https://github.com/ketop/Archlinux/2016-09-06-171108_1920x1080_scrot.png)
