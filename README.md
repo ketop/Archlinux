@@ -24,15 +24,15 @@ Yes,i love working on My ArchLinux
 ### My Software Lists as followings:
 1. herbstluftwm
 
-2.  Mendeley
+2. Mendeley
 
 3. xflux
 
-4. firefox
+4. google-chrome / firefox
 
 5. netease-cloud-music / moc
 
-6. eclipse
+6. Vim/Qt/Netbeans/eclipse
 
 7. powerline fonts  and spf13-vim
 
