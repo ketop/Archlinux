@@ -21,7 +21,7 @@ i spent some day on comfiguring my archlinux.So keep a backup   -_-!
 ----------------------------------------
 Yes,i love working on My ArchLinux 
 
-###My Software Lists as followings:
+### My Software Lists as followings:
 1. herbstluftwm
 
 2.  Mendeley
