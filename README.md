@@ -22,26 +22,26 @@ i spent some day on comfiguring my archlinux.So keep a backup   -_-!
 Yes,i love working on My ArchLinux 
 
 ###My Software Lists as followings:
-1> herbstluftwm
+1. herbstluftwm
 
-2>  Mendeley
+2.  Mendeley
 
-3> xflux
+3. xflux
 
-4> firefox
+4. firefox
 
-5> netease-cloud-music / moc
+5. netease-cloud-music / moc
 
-6> eclipse
+6. eclipse
 
-7> powerline fonts  and spf13-vim
+7. powerline fonts  and spf13-vim
 
-8> solarized xterm and  fcitx
+8. solarized xterm and  fcitx
 
-9> electron-wechat
+9. electron-wechat
 
-10> more discovery
+10. more discovery
 
 
 .....i lovein it!!!.....
-![image](https://github.com/ketop/Archlinux/2016-09-06-171108_1920x1080_scrot.png)
+
